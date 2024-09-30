@@ -1,6 +1,9 @@
 # assignment_5_1
  Assignment 5.1 
 
+Name : Sanjay Hegde
+Couse : UCB AI/ML
+
 Project Organization
 · A READMe file with a summary of findings and a link to your Jupyter notebook
 · Jupyter notebook with headings and text appropriately formatted
