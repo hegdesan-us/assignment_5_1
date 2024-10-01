@@ -18,3 +18,8 @@
 **Directory : data** \
  Description : Contains the data file needed for the class project\
  Contains file : coupons.csv
+
+ **Car cloumn is nor really needed. Missing significant information**
+ 
+
+ 
