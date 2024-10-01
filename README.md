@@ -49,4 +49,8 @@ Directory : data
 
 
 prompt_orig.ipynb : Original Prompt file (Questions only)
+<<<<<<< HEAD
 prompt_sol.ipynb : Original Prompt file (Solutions)
+=======
+prompt_sol.ipynb : Original Prompt file (Solutions)
+>>>>>>> 6668d36c5a1576bace3cf5d1a9a67c3ec1ca29ae
