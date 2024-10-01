@@ -20,6 +20,7 @@
  Contains file : coupons.csv
 
  **Car cloumn is nor really needed. Missing significant information**
+ ![MissingDataImage](https://github.com/hegdesan-us/assignment_5_1.git/images/missingdata.png)
  
 
  
