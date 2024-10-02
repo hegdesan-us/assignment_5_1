@@ -1,8 +1,10 @@
 # assignment_5_1
  Assignment 5.1 
 
- 
- **URL:** https://github.com/hegdesan-us/assignment_5_1.git
+ **URL for the assignment:** 
+```
+https://github.com/hegdesan-us/assignment_5_1.git
+```
 
 **Name :** Sanjay Hegde \
 **Couse :** UCB AI/ML 
@@ -40,22 +42,33 @@
   
 **Acceptance Rate by Bar Frequency**
 
+Those who visits the bar 4-8 times per month seems to to have a higher acceptance rate for bar coupon.
+
  ![MissingDataImage](images/bar-acceptance.png)
 
-**Is Morning and evening coupon usage is more?**
+**Is Morning 8AM and evening 6PM coupon usage is more**
 
  ![MissingDataImage](images/hour-distribution.png)
 
-**Unempoyed and students use coffee coupon more??**
+**Unempoyed and students use coffee coupon more**
 
  ![MissingDataImage](images/relation-coffee-coupon.png)
 
-**Unempoyed and students use cheap resturent coupon more??**
+**Unempoyed and students use cheap resturents coupon more**
 
  ![MissingDataImage](images/relation-coupon-cheapresturent.png)
 
 
- 
+**Based on the observations, we can hypothesize that drivers who accepted the bar coupons:**
+
+ 1. Are more likely to frequent bars: Those who go to bars more frequently (more than once a month)
+    tend to have a higher acceptance rate for bar coupons.
+ 2. Are more likely to be older and have a certain occupation
+   (e.g., not farming, fishing, or forestry): Acceptance rate was higher in drivers who go to a bar more than once a month and are over 25
+
+**Next steps**
+
+- Explore factors like Gender, Distance, Direction and combination of those factors influencing coupon acceptance
 
 
  
