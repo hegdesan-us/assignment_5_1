@@ -5,13 +5,17 @@
 ```
 https://github.com/hegdesan-us/assignment_5_1.git
 ```
+ **URL for solution Jupyter notebook:** 
+```
+https://github.com/hegdesan-us/assignment_5_1/blob/f7b71cbf780d21fdf6d1b74635c20a9c32916165/prompt_sol.ipynb
+```
 
 **Name :** Sanjay Hegde \
 **Couse :** UCB AI/ML 
 
 **prompt_orig.ipynb :** Original Prompt file (Questions only)
 
-**prompt_sol.ipynb :** Original Prompt file (Solutions)
+**prompt_sol.ipynb :** Final solutions file
 
 
 **Directory :** Images \
